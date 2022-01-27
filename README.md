@@ -1,6 +1,6 @@
 # Website created using Glickmac.github.io
 
-The repository holds the code used on my mini-website  
+The repository holds the code copied from Cody Glickman's website
 [glickmac.github.io](http://glickmac.github.io).
 
 Feel free to use any of this code as you wish.
