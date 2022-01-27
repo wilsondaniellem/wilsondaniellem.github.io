@@ -1,4 +1,4 @@
-# Glickmac.github.io
+# Website created using Glickmac.github.io
 
 The repository holds the code used on my mini-website  
 [glickmac.github.io](http://glickmac.github.io).
